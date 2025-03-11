@@ -24,5 +24,5 @@ Developer, Designer & Content Creator
 
 ### Support Me
 
-<p align="left"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/skumar3"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
+<p align="left"><a href="https://buymeacoffee.com/skumar3"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
 
